@@ -1,0 +1,65 @@
+﻿match_id,gameweek,datetime,venue,team1_id,team1_name,team1_goals,team2_id,team2_name,team2_goals,duration
+2057954,1,2018-06-14 15:00:00,Olimpiyskiy stadion Luzhniki,14358,Russia,5,16521,Saudi Arabia,0,Regular
+2057955,1,2018-06-15 12:00:00,Stadion Central'nyj,16129,Egypt,0,15670,Uruguay,1,Regular
+2057961,1,2018-06-15 15:00:00,Stadion Krestovskyi,16216,Morocco,0,10840,Iran,1,Regular
+2057960,1,2018-06-15 18:00:00,Olimpiyskiy Stadion Fisht,9905,Portugal,3,1598,Spain,3,Regular
+2057966,1,2018-06-16 10:00:00,Kazan' Arena,4418,France,2,8493,Australia,1,Regular
+2057972,1,2018-06-16 13:00:00,Otkrytiye Arena,12274,Argentina,1,7839,Iceland,1,Regular
+2057967,1,2018-06-16 16:00:00,Mordovia Arena,15594,Peru,0,7712,Denmark,1,Regular
+2057973,1,2018-06-16 19:00:00,Kaliningrad Stadium,9598,Croatia,2,16823,Nigeria,0,Regular
+2057979,1,2018-06-17 12:00:00,Samara Arena,16871,Costa Rica,0,17322,Serbia,1,Regular
+2057984,1,2018-06-17 15:00:00,Stadion Luzhniki,3148,Germany,0,15473,Mexico,1,Regular
+2057978,1,2018-06-17 18:00:00,Rostov Arena,6380,Brazil,1,6697,Switzerland,1,Regular
+2057985,1,2018-06-18 12:00:00,Stadion Nizhny Novgorod,7047,Sweden,1,14855,Korea Republic,0,Regular
+2057990,1,2018-06-18 15:00:00,Olimpiyskiy Stadion Fisht,5629,Belgium,3,17929,Panama,0,Regular
+2057991,1,2018-06-18 18:00:00,Volgograd Arena,16276,Tunisia,1,2413,England,2,Regular
+2057997,1,2018-06-19 12:00:00,Mordovia Arena,12430,Colombia,1,12913,Japan,2,Regular
+2057996,1,2018-06-19 15:00:00,Otkrytiye Arena,13869,Poland,1,19314,Senegal,2,Regular
+2057956,2,2018-06-19 18:00:00,Stadion Krestovskyi,14358,Russia,3,16129,Egypt,1,Regular
+2057962,2,2018-06-20 12:00:00,Olimpiyskiy stadion Luzhniki,9905,Portugal,1,16216,Morocco,0,Regular
+2057957,2,2018-06-20 15:00:00,Rostov Arena,15670,Uruguay,1,16521,Saudi Arabia,0,Regular
+2057963,2,2018-06-20 18:00:00,Kazan' Arena,10840,Iran,0,1598,Spain,1,Regular
+2057969,2,2018-06-21 12:00:00,Samara Arena,7712,Denmark,1,8493,Australia,1,Regular
+2057968,2,2018-06-21 15:00:00,Stadion Central'nyj,4418,France,1,15594,Peru,0,Regular
+2057974,2,2018-06-21 18:00:00,Stadion Nizhny Novgorod,12274,Argentina,0,9598,Croatia,3,Regular
+2057980,2,2018-06-22 12:00:00,Stadion Krestovskyi,6380,Brazil,2,16871,Costa Rica,0,Regular
+2057975,2,2018-06-22 15:00:00,Volgograd Arena,16823,Nigeria,2,7839,Iceland,0,Regular
+2057981,2,2018-06-22 18:00:00,Kaliningrad Stadium,17322,Serbia,1,6697,Switzerland,2,Regular
+2057992,2,2018-06-23 12:00:00,Otkrytiye Arena,5629,Belgium,5,16276,Tunisia,2,Regular
+2057987,2,2018-06-23 15:00:00,Rostov Arena,14855,Korea Republic,1,15473,Mexico,2,Regular
+2057986,2,2018-06-23 18:00:00,Olimpiyskiy Stadion Fisht,3148,Germany,2,7047,Sweden,1,Regular
+2057993,2,2018-06-24 12:00:00,Stadion Nizhny Novgorod,2413,England,6,17929,Panama,1,Regular
+2057999,2,2018-06-24 15:00:00,Stadion Central'nyj,12913,Japan,2,19314,Senegal,2,Regular
+2057998,2,2018-06-24 18:00:00,Kazan' Arena,13869,Poland,0,12430,Colombia,3,Regular
+2057958,3,2018-06-25 14:00:00,Samara Arena,15670,Uruguay,3,14358,Russia,0,Regular
+2057959,3,2018-06-25 14:00:00,Volgograd Arena,16521,Saudi Arabia,2,16129,Egypt,1,Regular
+2057964,3,2018-06-25 18:00:00,Mordovia Arena,10840,Iran,1,9905,Portugal,1,Regular
+2057965,3,2018-06-25 18:00:00,Kaliningrad Stadium,1598,Spain,2,16216,Morocco,2,Regular
+2057970,3,2018-06-26 14:00:00,Olimpiyskiy stadion Luzhniki,7712,Denmark,0,4418,France,0,Regular
+2057971,3,2018-06-26 14:00:00,Olimpiyskiy Stadion Fisht,8493,Australia,0,15594,Peru,2,Regular
+2057977,3,2018-06-26 18:00:00,Rostov Arena,7839,Iceland,1,9598,Croatia,2,Regular
+2057976,3,2018-06-26 18:00:00,Stadion Krestovskyi,16823,Nigeria,1,12274,Argentina,2,Regular
+2057988,3,2018-06-27 14:00:00,Kazan' Arena,14855,Korea Republic,2,3148,Germany,0,Regular
+2057989,3,2018-06-27 14:00:00,Stadion Central'nyj,15473,Mexico,0,7047,Sweden,3,Regular
+2057983,3,2018-06-27 18:00:00,Stadion Nizhny Novgorod,6697,Switzerland,2,16871,Costa Rica,2,Regular
+2057982,3,2018-06-27 18:00:00,Otkrytiye Arena,17322,Serbia,0,6380,Brazil,2,Regular
+2058001,3,2018-06-28 14:00:00,Samara Arena,19314,Senegal,0,12430,Colombia,1,Regular
+2058000,3,2018-06-28 14:00:00,Volgograd Arena,12913,Japan,0,13869,Poland,1,Regular
+2057995,3,2018-06-28 18:00:00,Mordovia Arena,17929,Panama,1,16276,Tunisia,2,Regular
+2057994,3,2018-06-28 18:00:00,Kaliningrad Stadium,2413,England,0,5629,Belgium,1,Regular
+2058003,0,2018-06-30 14:00:00,Kazan' Arena,4418,France,4,12274,Argentina,3,Regular
+2058002,0,2018-06-30 18:00:00,Olimpiyskiy Stadion Fisht,15670,Uruguay,2,9905,Portugal,1,Regular
+2058004,0,2018-07-01 14:00:00,Olimpiyskiy stadion Luzhniki,1598,Spain,1,14358,Russia,1,Penalties
+2058005,0,2018-07-01 18:00:00,Stadion Nizhny Novgorod,9598,Croatia,1,7712,Denmark,1,Penalties
+2058006,0,2018-07-02 14:00:00,Samara Arena,6380,Brazil,2,15473,Mexico,0,Regular
+2058007,0,2018-07-02 18:00:00,Rostov Arena,5629,Belgium,3,12913,Japan,2,Regular
+2058008,0,2018-07-03 14:00:00,Stadion Krestovskyi,7047,Sweden,1,6697,Switzerland,0,Regular
+2058009,0,2018-07-03 18:00:00,Otkrytiye Arena,12430,Colombia,1,2413,England,1,Penalties
+2058010,0,2018-07-06 14:00:00,Stadion Nizhny Novgorod,15670,Uruguay,0,4418,France,2,Regular
+2058011,0,2018-07-06 18:00:00,Kazan' Arena,6380,Brazil,1,5629,Belgium,2,Regular
+2058013,0,2018-07-07 14:00:00,Samara Arena,7047,Sweden,0,2413,England,2,Regular
+2058012,0,2018-07-07 18:00:00,Olimpiyskiy Stadion Fisht,14358,Russia,2,9598,Croatia,2,Penalties
+2058014,0,2018-07-10 18:00:00,Stadion Krestovskyi,4418,France,1,5629,Belgium,0,Regular
+2058015,0,2018-07-11 18:00:00,Olimpiyskiy stadion Luzhniki,9598,Croatia,2,2413,England,1,ExtraTime
+2058016,0,2018-07-14 14:00:00,Stadion Krestovskyi,5629,Belgium,2,2413,England,0,Regular
+2058017,0,2018-07-15 15:00:00,Olimpiyskiy stadion Luzhniki,4418,France,4,9598,Croatia,2,Regular
